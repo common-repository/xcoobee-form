@@ -1,0 +1,10 @@
+== Changelog ==
+
+= 1.2.1 - 2019-07-29 =
+* fix bugs with Contact form 7 and XcooBee consent registration
+
+= 1.2.0 - 2019-07-21 =
+* Add Contact Form 7 Support.
+
+= 1.0.0 - 2019-03-22 =
+* Initial release.

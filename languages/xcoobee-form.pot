@@ -1,0 +1,158 @@
+# Copyright (C) 2019 XcooBee
+# This file is distributed under the same license as the XcooBee package.
+msgid ""
+msgstr ""
+"Project-Id-Version: XcooBee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-xcoobee-form-admin.php:37, includes/admin/class-xcoobee-form-admin.php:38
+msgid "Form"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:19
+msgid "XcooBee Form Addon"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:20
+msgid "Secure and privacy regulation (GDPR) compliant data gathering via XcooBee Forms. You receive consent for every-data point and it’s specific use. XcooBee Forms are highly secure forms that you can use instead or alongside of webforms. Users interacting with secure forms automatically grant you consent you need to be compliant and your company can manage consent via the XcooBee Privacy Network."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:29
+msgid "Form Settings"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:32
+msgid "Default Campaign Reference"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:35
+msgid "The default campaign reference."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:44
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:45
+msgid "Use the following shortcode to display safe form buttons on your site."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:48
+msgid "Renders a safe form button."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:49
+msgid "This shortcode can be embedded in Contact Form 7. It will register corresponding consent for using of data with XcooBee. Users can then manage consent directly."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:56, includes/admin/views/settings-form.php:129
+msgid "Attribute"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:57, includes/admin/views/settings-form.php:130
+msgid "Description"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:58, includes/admin/views/settings-form.php:131
+msgid "Default"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:59, includes/admin/views/settings-form.php:132
+msgid "Example"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:65
+msgid "Campaign reference."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:71
+msgid "Size of the button (<code>small</code>, <code>medium</code> or <code>large</code>)."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:77
+msgid "URL to redirect to when request is approved."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:83
+msgid "URL to redirect to when request is declined."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:89
+msgid "The <code>id</code> of the form. Leave this empty if the shortcode is placed inside the form."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:95
+msgid "Alternate text for the button."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:96, includes/class-xcoobee-form-shortcodes.php:43
+msgid "Safe Form"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:97, includes/admin/views/settings-form.php:103
+msgid "Your text"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:101
+msgid "Alternate text for the button on hover."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:102
+msgid "Submit data securley via XcooBee!"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:107
+msgid "Additional CSS classes to button."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:113
+msgid "Custom HTML Id for the button."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:120, includes/admin/views/settings-form.php:157, includes/admin/views/settings-form.php:162
+msgid "Copy"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:121
+msgid "XcooBee Form Example"
+msgstr ""
+
+#: includes/admin/views/settings-form.php:138
+msgid "This is the XcooBee Campaign Reference. You can get this from your XcooBee campaign wizard screen."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:144
+msgid "This should be the name or ID of the form field of the form's field that contains the user's XcooBee ID. If both an email and XcooBee ID are present, we will process using XcooBee ID first."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:150
+msgid "This should be the name or ID of the form field of the form's field that contains the user's email."
+msgstr ""
+
+#: includes/admin/views/settings-form.php:158, includes/admin/views/settings-form.php:163
+msgid "XcooBee Save Consent"
+msgstr ""
+
+#: includes/class-xcoobee-form-shortcodes.php:44
+msgid "Submit data securely via Xcoobee!"
+msgstr ""
+
+#: xcoobee-form.php:102
+msgid "XcooBee Form requires XcooBee for WordPress to be installed and active. You can download %s here."
+msgstr ""
+
+#: xcoobee-form.php:250
+msgid "View XcooBee Form settings"
+msgstr ""
+
+#: xcoobee-form.php:250
+msgid "Settings"
+msgstr ""
